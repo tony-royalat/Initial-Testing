@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourcesDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Languages ID="00000000-0000-0000-0000-000000000000" Name="Default" />
+  <Resources ID="6af8620c-ca35-4971-a9be-7849a4a470e6" Name="Main.Variables.GreenLight.Comment">
+    <Values LanguageID="00000000-0000-0000-0000-000000000000" LocalValue="Green Stack Light" />
+  </Resources>
+  <Resources ID="87a9587e-0cd4-487d-ac35-e5f4b124b1ad" Name="Main.Variables.YellowLight.Comment">
+    <Values LanguageID="00000000-0000-0000-0000-000000000000" LocalValue="Yellow Stack Light" />
+  </Resources>
+  <Resources ID="c31f83f3-c7b3-4651-86f4-b7a9b3841eb4" Name="Main.Variables.RedLight.Comment">
+    <Values LanguageID="00000000-0000-0000-0000-000000000000" LocalValue="Red Stack Light" />
+  </Resources>
+  <Resources ID="9509fd2d-2761-458c-a29a-c117028ac90e" Name="Main.Variables.SafetyRelayAlarm.Comment">
+    <Values LanguageID="00000000-0000-0000-0000-000000000000" LocalValue="Input from Safety Relay" />
+  </Resources>
+  <Resources ID="67e0e50f-3bd4-4d8a-bcff-d5f7b2d02325" Name="Main.Variables.StackLightEnable.Comment">
+    <Values LanguageID="00000000-0000-0000-0000-000000000000" LocalValue="HMI Control for Stack Light" />
+  </Resources>
+</ResourcesDocument>

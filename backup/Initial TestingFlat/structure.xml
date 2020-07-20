@@ -54,7 +54,6 @@
               <file name="Definition.hmipagedef" id="Home.hmi~Definition~0000.hmipagedef" />
               <file name="Parameters.hmiparams" id="Home.hmi~Parameters~0000.hmiparams" />
               <file name="Variables.hmivar" id="Home.hmi~Variables~0000.hmivar" />
-              <file name="Resources.locres" id="Home.hmi~Resources~0000.locres" />
             </folder>
           </folder>
         </folder>
@@ -78,7 +77,6 @@
           <file name="ResourceSettings.set" id="RES_82997~ResourceSe~0000.set" />
         </folder>
       </folder>
-      <file name="950d54e3-e87f-4f59-8e36-760d6cb9bdc3.projset" id="Hardware~950d54e3-e8~0002.projset" />
     </folder>
     <folder name="Logical Elements">
       <file name="CRC32.crc" id="Logical Elemen~CRC32~0000.crc" />
@@ -89,13 +87,7 @@
         <file name="Metadata.meta" id="Main.pou~Metadata~0000.meta" />
         <file name="Variables.var" id="Main.pou~Variables~0000.var" />
         <file name="VersionHistory.usermeta" id="Main.pou~VersionHist~0000.usermeta" />
-        <file name="Variables.var.locres" id="Main.pou~Variables.v~0000.locres" />
       </folder>
-      <folder name="WallE_small.jpg">
-        <file name="Source" id="WallE_small.j~Source~0000" />
-        <file name="Thumbnail" id="WallE_smal~Thumbnail~0000" />
-      </folder>
-      <folder name="WallE_small1.jpg" />
     </folder>
     <folder name="RecycleBin">
       <folder name="05d07980-d292-4505-8f47-21394cb9374b">
@@ -140,13 +132,6 @@
       <folder name="f72df97b-4f8a-4a7b-8267-d92e92e94469">
         <folder name="NewProgram.pou">
           <file name="Description.html" id="NewProgra~Descriptio~0002.html" />
-        </folder>
-      </folder>
-      <folder name="e83b1dbf-0aa7-49f5-b11f-b00297944d19">
-        <file name="e83b1dbf-0aa7-49f5-b11f-b00297944d19" id="e83b1dbf-~e83b1dbf-0~0000" />
-        <folder name="WallE_small1.jpg">
-          <file name="Source" id="WallE_small1.~Source~0001" />
-          <file name="Thumbnail" id="WallE_smal~Thumbnail~0002" />
         </folder>
       </folder>
     </folder>

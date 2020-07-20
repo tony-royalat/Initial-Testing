@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourcesDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Languages ID="00000000-0000-0000-0000-000000000000" Name="Default" />
+  <Resources ID="69b58ef7-01bf-4039-9f2d-049e0b9a0af3" Name="Button1.Text">
+    <Values LanguageID="00000000-0000-0000-0000-000000000000" LocalValue="UnEnable" />
+  </Resources>
+  <Resources ID="777d13d4-7c84-4fd3-b165-cccff74c780c" Name="Button1.TextWhenDown">
+    <Values LanguageID="00000000-0000-0000-0000-000000000000" LocalValue="It's Borked" />
+  </Resources>
+</ResourcesDocument>

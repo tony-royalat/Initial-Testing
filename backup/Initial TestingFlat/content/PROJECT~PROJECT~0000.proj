@@ -173,28 +173,15 @@
       </EsmConfiguration>
    </ItemGroup>
    <ItemGroup>
-      <Folder Include="RecycleBin">
-         <Id>0a2bea05-ee96-4800-b065-99746a5c811e</Id>
-         <FolderType>RecycleBin</FolderType>
-         <LastestItemNo>1</LastestItemNo>
-         <Visible>false</Visible>
-         <ParentIndex>0</ParentIndex>
-      </Folder>
-      <Folder Include="RecycleBin\e83b1dbf-0aa7-49f5-b11f-b00297944d19">
-         <Id>81afda18-19eb-4afa-be3c-4700599cf88a</Id>
-         <FolderType>RecycleBinItem</FolderType>
-         <ItemNo>1</ItemNo>
-         <ParentIndex>0</ParentIndex>
-      </Folder>
       <Folder Include="References">
          <Id>e1f1f17a-700b-4d82-b5af-66425b18451f</Id>
          <FolderType>References</FolderType>
-         <ParentIndex>1</ParentIndex>
+         <ParentIndex>0</ParentIndex>
       </Folder>
       <Folder Include="Hardware">
          <Id>b614ac7b-e691-415d-9ea0-2d9d7a7e1117</Id>
          <FolderType>Root</FolderType>
-         <ParentIndex>2</ParentIndex>
+         <ParentIndex>1</ParentIndex>
       </Folder>
       <Folder Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7">
          <Id>09451df4-5b18-4474-b1bd-c5f625d4c2b7</Id>
@@ -373,7 +360,7 @@
       <Folder Include="Logical Elements">
          <Id>d31eab2b-b1a0-4c93-bdaf-090bc38c49f4</Id>
          <FolderType>Root</FolderType>
-         <ParentIndex>3</ParentIndex>
+         <ParentIndex>2</ParentIndex>
       </Folder>
       <Folder Include="Logical Elements\Main.pou">
          <Id>111dd1e0-8977-404a-b4bf-24eeb8c05c76</Id>
@@ -438,54 +425,6 @@
          <Visible>False</Visible>
          <ParentIndex>2</ParentIndex>
       </HmiVariables>
-   </ItemGroup>
-   <ItemGroup>
-      <Image Include="RecycleBin\e83b1dbf-0aa7-49f5-b11f-b00297944d19\WallE_small1.jpg">
-         <Id>e83b1dbf-0aa7-49f5-b11f-b00297944d19</Id>
-         <DisplayName>WallE_small1</DisplayName>
-         <ImageWidth>800</ImageWidth>
-         <ImageHeight>480</ImageHeight>
-         <Revision>1</Revision>
-         <ImageType>Raster</ImageType>
-         <SourceId>942e4ef9-6dcb-45ba-98d2-3f96ddd019f9</SourceId>
-         <ThumbnailId>4f2a6820-9729-4265-b155-a1d13f8ee47e</ThumbnailId>
-         <ParentIndex>0</ParentIndex>
-      </Image>
-      <Image Include="Logical Elements\WallE_small.jpg">
-         <Id>3bd2881a-ef78-4c8d-99be-37dc7f037cd7</Id>
-         <DisplayName>WallE_small</DisplayName>
-         <ImageWidth>800</ImageWidth>
-         <ImageHeight>480</ImageHeight>
-         <Revision>1</Revision>
-         <ImageType>Raster</ImageType>
-         <SourceId>57e05a31-d5f4-4fd9-a9f7-47c500ae0b98</SourceId>
-         <ThumbnailId>eb79d430-7775-4828-945b-3b978c1ad536</ThumbnailId>
-         <ParentIndex>3</ParentIndex>
-      </Image>
-   </ItemGroup>
-   <ItemGroup>
-      <ImageSource Include="RecycleBin\e83b1dbf-0aa7-49f5-b11f-b00297944d19\WallE_small1.jpg\Source">
-         <Id>942e4ef9-6dcb-45ba-98d2-3f96ddd019f9</Id>
-         <ImageId>e83b1dbf-0aa7-49f5-b11f-b00297944d19</ImageId>
-         <ParentIndex>0</ParentIndex>
-      </ImageSource>
-      <ImageSource Include="Logical Elements\WallE_small.jpg\Source">
-         <Id>57e05a31-d5f4-4fd9-a9f7-47c500ae0b98</Id>
-         <ImageId>3bd2881a-ef78-4c8d-99be-37dc7f037cd7</ImageId>
-         <ParentIndex>0</ParentIndex>
-      </ImageSource>
-   </ItemGroup>
-   <ItemGroup>
-      <ImageThumbnail Include="RecycleBin\e83b1dbf-0aa7-49f5-b11f-b00297944d19\WallE_small1.jpg\Thumbnail">
-         <Id>4f2a6820-9729-4265-b155-a1d13f8ee47e</Id>
-         <ImageId>e83b1dbf-0aa7-49f5-b11f-b00297944d19</ImageId>
-         <ParentIndex>1</ParentIndex>
-      </ImageThumbnail>
-      <ImageThumbnail Include="Logical Elements\WallE_small.jpg\Thumbnail">
-         <Id>eb79d430-7775-4828-945b-3b978c1ad536</Id>
-         <ImageId>3bd2881a-ef78-4c8d-99be-37dc7f037cd7</ImageId>
-         <ParentIndex>1</ParentIndex>
-      </ImageThumbnail>
    </ItemGroup>
    <ItemGroup>
       <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\b84580d7-61ea-48ec-9861-abe43adbd376.iprop">
@@ -566,19 +505,6 @@
          <Id>4ffb41f4-be5d-48f4-a17d-dc8f5965e17b</Id>
          <ParentIndex>3</ParentIndex>
       </IoConfigurationWorksheet>
-   </ItemGroup>
-   <ItemGroup>
-      <LocalResources Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\HMI_Server\Application\Home.hmi\Resources.locres">
-         <Id>534e9cc8-52bf-4048-a378-0d6a72c7afbc</Id>
-         <Visible>False</Visible>
-         <HmiPageId>e61e8c72-547c-4c87-a9af-f6c248f8fc1a</HmiPageId>
-         <ParentIndex>3</ParentIndex>
-      </LocalResources>
-      <LocalResources Include="Logical Elements\Main.pou\Variables.var.locres">
-         <Id>d976bab7-c83b-44fd-b078-d5d033daa54f</Id>
-         <Visible>False</Visible>
-         <ParentIndex>5</ParentIndex>
-      </LocalResources>
    </ItemGroup>
    <ItemGroup>
       <MetaComponent Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\RES_829976591E98446682C292813E058D7E\EclrComponent.compmeta">
@@ -745,13 +671,6 @@
       </PlmConfiguration>
    </ItemGroup>
    <ItemGroup>
-      <ProjectSettingsDocument Include="Hardware\950d54e3-e87f-4f59-8e36-760d6cb9bdc3.projset">
-         <Id>45f9c517-8c57-4878-8b76-46c3f76ec3bb</Id>
-         <Visible>False</Visible>
-         <ParentIndex>7</ParentIndex>
-      </ProjectSettingsDocument>
-   </ItemGroup>
-   <ItemGroup>
       <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\b84580d7-61ea-48ec-9861-abe43adbd376.properties">
          <Id>37917af1-3834-4ab0-91fa-82f0f8001601</Id>
          <Visible>False</Visible>
@@ -799,12 +718,6 @@
          <DisplayName>Task Configuration</DisplayName>
          <ParentIndex>4</ParentIndex>
       </ResourceSettings>
-   </ItemGroup>
-   <ItemGroup>
-      <RestoreDocument Include="RecycleBin\e83b1dbf-0aa7-49f5-b11f-b00297944d19\e83b1dbf-0aa7-49f5-b11f-b00297944d19">
-         <Id>a8c523c0-f22c-4689-ac07-a5c9ab04ff91</Id>
-         <ParentIndex>1</ParentIndex>
-      </RestoreDocument>
    </ItemGroup>
    <ItemGroup>
       <SolutionReference Include="PLCnext Controller">
@@ -882,9 +795,9 @@
    </ItemGroup>
    <PropertyGroup>
       <ProjectId>5370a173-31a3-4247-9887-8407f3470dce</ProjectId>
-      <AdeProductVersion>1.4.16.0</AdeProductVersion>
+      <AdeProductVersion>1.4.15.0</AdeProductVersion>
       <AdeSafetyVersion>1.0.0.1</AdeSafetyVersion>
-      <HmiSchemaRevision>6</HmiSchemaRevision>
+      <HmiSchemaRevision>4</HmiSchemaRevision>
       <SafetyId>1c4bf057-5072-422e-a687-3f8d33980572</SafetyId>
    </PropertyGroup>
 </Project>
