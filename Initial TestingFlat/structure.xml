@@ -20,24 +20,12 @@
           <folder name="AXL_F_DI8_1_DO8_1_1H">
             <file name="9e014a44-cfd6-4f3a-b3d1-ea433f686602.ds" id="AXL_F_DI8~9e014a44-c~0000.ds" />
           </folder>
-          <folder name="AXL_SE_AI4_I_4-20">
-            <file name="a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.ds" id="AXL_SE_AI~a9e62d51-2~0000.ds" />
-          </folder>
-          <folder name="AXL_SE_AI4_U_0-10">
-            <file name="000d0c7a-08ef-4798-999f-49de0573aa64.ds" id="AXL_SE_AI~000d0c7a-0~0000.ds" />
-          </folder>
-          <folder name="AXL_SE_AO4_I_4-20">
-            <file name="37b4d0fa-7596-4ebe-bff5-b778e687df46.ds" id="AXL_SE_AO~37b4d0fa-7~0000.ds" />
-          </folder>
-          <folder name="AXL_SE_DI16_1">
-            <file name="0581ea63-5c60-45d9-99e0-938130ba16ed.ds" id="AXL_SE_DI~0581ea63-5~0000.ds" />
-          </folder>
-          <folder name="AXL_SE_DO16_1">
-            <file name="3f6bc11d-3f02-4bdf-a102-ee6a894d0695.ds" id="AXL_SE_DO~3f6bc11d-3~0000.ds" />
-          </folder>
-          <folder name="AXL_SE_RTD4_PT100">
-            <file name="683a74f3-3450-473f-b43d-408f3d7c78c9.ds" id="AXL_SE_RT~683a74f3-3~0000.ds" />
-          </folder>
+          <folder name="AXL_SE_AI4_I_4-20" />
+          <folder name="AXL_SE_AI4_U_0-10" />
+          <folder name="AXL_SE_AO4_I_4-20" />
+          <folder name="AXL_SE_DI16_1" />
+          <folder name="AXL_SE_DO16_1" />
+          <folder name="AXL_SE_RTD4_PT100" />
         </folder>
         <folder name="EIP_Master">
           <file name="Arp.Io.EthernetIP.libmeta" id="EIP_Maste~Arp.Io.Eth~0000.libmeta" />
@@ -147,6 +135,42 @@
         <folder name="WallE_small1.jpg">
           <file name="Source" id="WallE_small1.~Source~0001" />
           <file name="Thumbnail" id="WallE_smal~Thumbnail~0002" />
+        </folder>
+      </folder>
+      <folder name="e5f18024-f66f-4653-9132-3044249f7988">
+        <file name="e5f18024-f66f-4653-9132-3044249f7988" id="e5f18024-~e5f18024-f~0000" />
+        <folder name="AXL_SE_DI16_1">
+          <file name="0581ea63-5c60-45d9-99e0-938130ba16ed.ds" id="AXL_SE_DI~0581ea63-5~0001.ds" />
+        </folder>
+      </folder>
+      <folder name="974c755e-bce6-4777-8ff5-07d1a9c744a7">
+        <file name="974c755e-bce6-4777-8ff5-07d1a9c744a7" id="974c755e-~974c755e-b~0000" />
+        <folder name="AXL_SE_DO16_1">
+          <file name="3f6bc11d-3f02-4bdf-a102-ee6a894d0695.ds" id="AXL_SE_DO~3f6bc11d-3~0001.ds" />
+        </folder>
+      </folder>
+      <folder name="5b343eb2-b666-4254-8b15-7227bb8ff491">
+        <file name="5b343eb2-b666-4254-8b15-7227bb8ff491" id="5b343eb2-~5b343eb2-b~0000" />
+        <folder name="AXL_SE_AI4_U_0-10">
+          <file name="000d0c7a-08ef-4798-999f-49de0573aa64.ds" id="AXL_SE_AI~000d0c7a-0~0001.ds" />
+        </folder>
+      </folder>
+      <folder name="573cb40b-8715-4f4e-b675-630b3bacbc37">
+        <file name="573cb40b-8715-4f4e-b675-630b3bacbc37" id="573cb40b-~573cb40b-8~0000" />
+        <folder name="AXL_SE_RTD4_PT100">
+          <file name="683a74f3-3450-473f-b43d-408f3d7c78c9.ds" id="AXL_SE_RT~683a74f3-3~0001.ds" />
+        </folder>
+      </folder>
+      <folder name="fb7d0250-3958-4721-981c-39b338c03ac7">
+        <file name="fb7d0250-3958-4721-981c-39b338c03ac7" id="fb7d0250-~fb7d0250-3~0000" />
+        <folder name="AXL_SE_AI4_I_4-20">
+          <file name="a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.ds" id="AXL_SE_AI~a9e62d51-2~0001.ds" />
+        </folder>
+      </folder>
+      <folder name="50bf362b-27b6-4c4e-b71c-c493a986f5bb">
+        <file name="50bf362b-27b6-4c4e-b71c-c493a986f5bb" id="50bf362b-~50bf362b-2~0000" />
+        <folder name="AXL_SE_AO4_I_4-20">
+          <file name="37b4d0fa-7596-4ebe-bff5-b778e687df46.ds" id="AXL_SE_AO~37b4d0fa-7~0001.ds" />
         </folder>
       </folder>
     </folder>

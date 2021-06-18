@@ -32,6 +32,36 @@
       </DataList>
    </ItemGroup>
    <ItemGroup>
+      <DataListReference Include="RecycleBin\50bf362b-27b6-4c4e-b71c-c493a986f5bb\AXL_SE_AO4_I_4-20\DataList.dlr4pd">
+         <Id>c0dd024a-1dc7-46a5-9e8a-21a807ea63ef</Id>
+         <Visible>false</Visible>
+         <ParentIndex>4</ParentIndex>
+      </DataListReference>
+      <DataListReference Include="RecycleBin\fb7d0250-3958-4721-981c-39b338c03ac7\AXL_SE_AI4_I_4-20\DataList.dlr4pd">
+         <Id>c0231da9-93a3-499e-a567-c67079f04618</Id>
+         <Visible>false</Visible>
+         <ParentIndex>4</ParentIndex>
+      </DataListReference>
+      <DataListReference Include="RecycleBin\573cb40b-8715-4f4e-b675-630b3bacbc37\AXL_SE_RTD4_PT100\DataList.dlr4pd">
+         <Id>75ff4bef-30ad-4462-8609-6cf9c56f96c1</Id>
+         <Visible>false</Visible>
+         <ParentIndex>4</ParentIndex>
+      </DataListReference>
+      <DataListReference Include="RecycleBin\5b343eb2-b666-4254-8b15-7227bb8ff491\AXL_SE_AI4_U_0-10\DataList.dlr4pd">
+         <Id>0639b74a-0ad0-4886-8834-6f95e80b3987</Id>
+         <Visible>false</Visible>
+         <ParentIndex>4</ParentIndex>
+      </DataListReference>
+      <DataListReference Include="RecycleBin\974c755e-bce6-4777-8ff5-07d1a9c744a7\AXL_SE_DO16_1\DataList.dlr4pd">
+         <Id>54652025-47e0-4e47-8c9d-feb546f025c5</Id>
+         <Visible>false</Visible>
+         <ParentIndex>4</ParentIndex>
+      </DataListReference>
+      <DataListReference Include="RecycleBin\e5f18024-f66f-4653-9132-3044249f7988\AXL_SE_DI16_1\DataList.dlr4pd">
+         <Id>e4d8d48e-6fbc-473a-a4e5-50c563d9e9ac</Id>
+         <Visible>false</Visible>
+         <ParentIndex>4</ParentIndex>
+      </DataListReference>
       <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\PLCnext\DataList.dlr2pl">
          <Id>c461f925-b7a5-4871-a0be-1c773bc03c3d</Id>
          <Visible>false</Visible>
@@ -62,40 +92,10 @@
          <Visible>false</Visible>
          <ParentIndex>4</ParentIndex>
       </DataListReference>
-      <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DI16_1\DataList.dlr4pd">
-         <Id>e4d8d48e-6fbc-473a-a4e5-50c563d9e9ac</Id>
-         <Visible>false</Visible>
-         <ParentIndex>4</ParentIndex>
-      </DataListReference>
-      <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DO16_1\DataList.dlr4pd">
-         <Id>54652025-47e0-4e47-8c9d-feb546f025c5</Id>
-         <Visible>false</Visible>
-         <ParentIndex>4</ParentIndex>
-      </DataListReference>
-      <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_U_0-10\DataList.dlr4pd">
-         <Id>0639b74a-0ad0-4886-8834-6f95e80b3987</Id>
-         <Visible>false</Visible>
-         <ParentIndex>4</ParentIndex>
-      </DataListReference>
-      <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_RTD4_PT100\DataList.dlr4pd">
-         <Id>75ff4bef-30ad-4462-8609-6cf9c56f96c1</Id>
-         <Visible>false</Visible>
-         <ParentIndex>4</ParentIndex>
-      </DataListReference>
-      <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_I_4-20\DataList.dlr4pd">
-         <Id>c0231da9-93a3-499e-a567-c67079f04618</Id>
-         <Visible>false</Visible>
-         <ParentIndex>4</ParentIndex>
-      </DataListReference>
-      <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AO4_I_4-20\DataList.dlr4pd">
-         <Id>c0dd024a-1dc7-46a5-9e8a-21a807ea63ef</Id>
-         <Visible>false</Visible>
-         <ParentIndex>4</ParentIndex>
-      </DataListReference>
       <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\DataList.dlr4pd">
          <Id>967db78d-633b-4d67-a2cd-3d4d90473d07</Id>
          <Visible>false</Visible>
-         <ParentIndex>11</ParentIndex>
+         <ParentIndex>5</ParentIndex>
       </DataListReference>
       <DataListReference Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\IB_Master\DataList.dlr4pd">
          <Id>ecab1b9e-570f-4220-b8f3-03ed84a481fa</Id>
@@ -112,6 +112,36 @@
       </DataTypeWorksheet>
    </ItemGroup>
    <ItemGroup>
+      <DeviceInstanceDocument Include="RecycleBin\50bf362b-27b6-4c4e-b71c-c493a986f5bb\AXL_SE_AO4_I_4-20\37b4d0fa-7596-4ebe-bff5-b778e687df46.ds">
+         <Id>2b0a8056-a4fa-41aa-898c-ce8973855b8a</Id>
+         <Visible>False</Visible>
+         <ParentIndex>3</ParentIndex>
+      </DeviceInstanceDocument>
+      <DeviceInstanceDocument Include="RecycleBin\fb7d0250-3958-4721-981c-39b338c03ac7\AXL_SE_AI4_I_4-20\a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.ds">
+         <Id>5cd9dc0b-4606-4e13-b349-0c15850ef808</Id>
+         <Visible>False</Visible>
+         <ParentIndex>3</ParentIndex>
+      </DeviceInstanceDocument>
+      <DeviceInstanceDocument Include="RecycleBin\573cb40b-8715-4f4e-b675-630b3bacbc37\AXL_SE_RTD4_PT100\683a74f3-3450-473f-b43d-408f3d7c78c9.ds">
+         <Id>b6f4e6ab-c6fb-49e6-88af-127ee6a9906d</Id>
+         <Visible>False</Visible>
+         <ParentIndex>3</ParentIndex>
+      </DeviceInstanceDocument>
+      <DeviceInstanceDocument Include="RecycleBin\5b343eb2-b666-4254-8b15-7227bb8ff491\AXL_SE_AI4_U_0-10\000d0c7a-08ef-4798-999f-49de0573aa64.ds">
+         <Id>0a50198c-af98-40ce-83e9-2a2aead0e051</Id>
+         <Visible>False</Visible>
+         <ParentIndex>3</ParentIndex>
+      </DeviceInstanceDocument>
+      <DeviceInstanceDocument Include="RecycleBin\974c755e-bce6-4777-8ff5-07d1a9c744a7\AXL_SE_DO16_1\3f6bc11d-3f02-4bdf-a102-ee6a894d0695.ds">
+         <Id>a2da72d8-6d5e-411c-9a93-c1e3e47ba98a</Id>
+         <Visible>False</Visible>
+         <ParentIndex>3</ParentIndex>
+      </DeviceInstanceDocument>
+      <DeviceInstanceDocument Include="RecycleBin\e5f18024-f66f-4653-9132-3044249f7988\AXL_SE_DI16_1\0581ea63-5c60-45d9-99e0-938130ba16ed.ds">
+         <Id>fa9f67dc-79dc-4f82-8527-7a7a8eac88f7</Id>
+         <Visible>False</Visible>
+         <ParentIndex>3</ParentIndex>
+      </DeviceInstanceDocument>
       <DeviceInstanceDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\b84580d7-61ea-48ec-9861-abe43adbd376.ds">
          <Id>4aa93581-1707-4566-a886-5adcfbc978ae</Id>
          <Visible>False</Visible>
@@ -119,36 +149,6 @@
       </DeviceInstanceDocument>
       <DeviceInstanceDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_F_DI8_1_DO8_1_1H\9e014a44-cfd6-4f3a-b3d1-ea433f686602.ds">
          <Id>230ef071-4a30-4316-9481-0aa5c5dbedc1</Id>
-         <Visible>False</Visible>
-         <ParentIndex>3</ParentIndex>
-      </DeviceInstanceDocument>
-      <DeviceInstanceDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DI16_1\0581ea63-5c60-45d9-99e0-938130ba16ed.ds">
-         <Id>fa9f67dc-79dc-4f82-8527-7a7a8eac88f7</Id>
-         <Visible>False</Visible>
-         <ParentIndex>3</ParentIndex>
-      </DeviceInstanceDocument>
-      <DeviceInstanceDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DO16_1\3f6bc11d-3f02-4bdf-a102-ee6a894d0695.ds">
-         <Id>a2da72d8-6d5e-411c-9a93-c1e3e47ba98a</Id>
-         <Visible>False</Visible>
-         <ParentIndex>3</ParentIndex>
-      </DeviceInstanceDocument>
-      <DeviceInstanceDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_U_0-10\000d0c7a-08ef-4798-999f-49de0573aa64.ds">
-         <Id>0a50198c-af98-40ce-83e9-2a2aead0e051</Id>
-         <Visible>False</Visible>
-         <ParentIndex>3</ParentIndex>
-      </DeviceInstanceDocument>
-      <DeviceInstanceDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_RTD4_PT100\683a74f3-3450-473f-b43d-408f3d7c78c9.ds">
-         <Id>b6f4e6ab-c6fb-49e6-88af-127ee6a9906d</Id>
-         <Visible>False</Visible>
-         <ParentIndex>3</ParentIndex>
-      </DeviceInstanceDocument>
-      <DeviceInstanceDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_I_4-20\a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.ds">
-         <Id>5cd9dc0b-4606-4e13-b349-0c15850ef808</Id>
-         <Visible>False</Visible>
-         <ParentIndex>3</ParentIndex>
-      </DeviceInstanceDocument>
-      <DeviceInstanceDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AO4_I_4-20\37b4d0fa-7596-4ebe-bff5-b778e687df46.ds">
-         <Id>2b0a8056-a4fa-41aa-898c-ce8973855b8a</Id>
          <Visible>False</Visible>
          <ParentIndex>3</ParentIndex>
       </DeviceInstanceDocument>
@@ -173,23 +173,119 @@
       </EsmConfiguration>
    </ItemGroup>
    <ItemGroup>
+      <Folder Include="References">
+         <Id>e1f1f17a-700b-4d82-b5af-66425b18451f</Id>
+         <FolderType>References</FolderType>
+         <ParentIndex>0</ParentIndex>
+      </Folder>
       <Folder Include="RecycleBin">
          <Id>0a2bea05-ee96-4800-b065-99746a5c811e</Id>
          <FolderType>RecycleBin</FolderType>
-         <LastestItemNo>1</LastestItemNo>
+         <LastestItemNo>7</LastestItemNo>
          <Visible>false</Visible>
+         <ParentIndex>1</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\50bf362b-27b6-4c4e-b71c-c493a986f5bb">
+         <Id>b540122a-0c11-4811-9232-87ca67fbdbaa</Id>
+         <FolderType>RecycleBinItem</FolderType>
+         <ItemNo>7</ItemNo>
+         <ParentIndex>0</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\50bf362b-27b6-4c4e-b71c-c493a986f5bb\AXL_SE_AO4_I_4-20">
+         <Id>50bf362b-27b6-4c4e-b71c-c493a986f5bb</Id>
+         <FolderType>DeviceInstance</FolderType>
+         <AllowReordering>true</AllowReordering>
+         <InstanceId>37b4d0fa-7596-4ebe-bff5-b778e687df46</InstanceId>
+         <TypeId>{da694e81-6778-4251-aa6a-47879b850a81}</TypeId>
+         <TypeName>AXL SE AO4 I 4-20</TypeName>
+         <TypeRevision>00/1.00</TypeRevision>
+         <ParentIndex>0</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\fb7d0250-3958-4721-981c-39b338c03ac7">
+         <Id>f1baa968-ad92-412a-b226-de4d7de7ce6f</Id>
+         <FolderType>RecycleBinItem</FolderType>
+         <ItemNo>6</ItemNo>
+         <ParentIndex>1</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\fb7d0250-3958-4721-981c-39b338c03ac7\AXL_SE_AI4_I_4-20">
+         <Id>fb7d0250-3958-4721-981c-39b338c03ac7</Id>
+         <FolderType>DeviceInstance</FolderType>
+         <AllowReordering>true</AllowReordering>
+         <InstanceId>a9e62d51-2574-45cc-a9d5-0fd405ea3d6e</InstanceId>
+         <TypeId>{ffcbac13-5342-44ea-8bea-2d20bb7e374a}</TypeId>
+         <TypeName>AXL SE AI4 I 4-20</TypeName>
+         <TypeRevision>00/1.00</TypeRevision>
+         <ParentIndex>0</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\573cb40b-8715-4f4e-b675-630b3bacbc37">
+         <Id>0f3f649c-e800-4fbe-a011-9a448b643dbd</Id>
+         <FolderType>RecycleBinItem</FolderType>
+         <ItemNo>5</ItemNo>
+         <ParentIndex>2</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\573cb40b-8715-4f4e-b675-630b3bacbc37\AXL_SE_RTD4_PT100">
+         <Id>573cb40b-8715-4f4e-b675-630b3bacbc37</Id>
+         <FolderType>DeviceInstance</FolderType>
+         <AllowReordering>true</AllowReordering>
+         <InstanceId>683a74f3-3450-473f-b43d-408f3d7c78c9</InstanceId>
+         <TypeId>{0564fac8-584f-435f-b5c2-b8519b341920}</TypeId>
+         <TypeName>AXL SE RTD4 PT100</TypeName>
+         <TypeRevision>00/1.00</TypeRevision>
+         <ParentIndex>0</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\5b343eb2-b666-4254-8b15-7227bb8ff491">
+         <Id>1c7174ef-e73f-4570-9c1f-d747eb8c080d</Id>
+         <FolderType>RecycleBinItem</FolderType>
+         <ItemNo>4</ItemNo>
+         <ParentIndex>3</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\5b343eb2-b666-4254-8b15-7227bb8ff491\AXL_SE_AI4_U_0-10">
+         <Id>5b343eb2-b666-4254-8b15-7227bb8ff491</Id>
+         <FolderType>DeviceInstance</FolderType>
+         <AllowReordering>true</AllowReordering>
+         <InstanceId>000d0c7a-08ef-4798-999f-49de0573aa64</InstanceId>
+         <TypeId>{29a46d5f-387c-4946-8881-c01efeb13ca4}</TypeId>
+         <TypeName>AXL SE AI4 U 0-10</TypeName>
+         <TypeRevision>00/1.00</TypeRevision>
+         <ParentIndex>0</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\974c755e-bce6-4777-8ff5-07d1a9c744a7">
+         <Id>758e792d-239d-4a30-918a-2b6e6a0d9a58</Id>
+         <FolderType>RecycleBinItem</FolderType>
+         <ItemNo>3</ItemNo>
+         <ParentIndex>4</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\974c755e-bce6-4777-8ff5-07d1a9c744a7\AXL_SE_DO16_1">
+         <Id>974c755e-bce6-4777-8ff5-07d1a9c744a7</Id>
+         <FolderType>DeviceInstance</FolderType>
+         <AllowReordering>true</AllowReordering>
+         <InstanceId>3f6bc11d-3f02-4bdf-a102-ee6a894d0695</InstanceId>
+         <TypeId>{39f1662a-5d2f-412b-bd33-4e140598cae2}</TypeId>
+         <TypeName>AXL SE DO16/1</TypeName>
+         <TypeRevision>00/1.00</TypeRevision>
+         <ParentIndex>0</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\e5f18024-f66f-4653-9132-3044249f7988">
+         <Id>98a027bd-64e1-4a37-a8e4-a19431e79b69</Id>
+         <FolderType>RecycleBinItem</FolderType>
+         <ItemNo>2</ItemNo>
+         <ParentIndex>5</ParentIndex>
+      </Folder>
+      <Folder Include="RecycleBin\e5f18024-f66f-4653-9132-3044249f7988\AXL_SE_DI16_1">
+         <Id>e5f18024-f66f-4653-9132-3044249f7988</Id>
+         <FolderType>DeviceInstance</FolderType>
+         <AllowReordering>true</AllowReordering>
+         <InstanceId>0581ea63-5c60-45d9-99e0-938130ba16ed</InstanceId>
+         <TypeId>{1731b72b-a26a-4e07-9b43-797c982dd41b}</TypeId>
+         <TypeName>AXL SE DI16/1</TypeName>
+         <TypeRevision>00/1.00</TypeRevision>
          <ParentIndex>0</ParentIndex>
       </Folder>
       <Folder Include="RecycleBin\e83b1dbf-0aa7-49f5-b11f-b00297944d19">
          <Id>81afda18-19eb-4afa-be3c-4700599cf88a</Id>
          <FolderType>RecycleBinItem</FolderType>
          <ItemNo>1</ItemNo>
-         <ParentIndex>0</ParentIndex>
-      </Folder>
-      <Folder Include="References">
-         <Id>e1f1f17a-700b-4d82-b5af-66425b18451f</Id>
-         <FolderType>References</FolderType>
-         <ParentIndex>1</ParentIndex>
+         <ParentIndex>6</ParentIndex>
       </Folder>
       <Folder Include="Hardware">
          <Id>b614ac7b-e691-415d-9ea0-2d9d7a7e1117</Id>
@@ -299,66 +395,6 @@
          <TypeId>{E239C1FB-9529-4083-B973-B071FA8BE025}</TypeId>
          <TypeName>AXL F DI8/1 DO8/1 1H</TypeName>
          <ParentIndex>0</ParentIndex>
-      </Folder>
-      <Folder Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DI16_1">
-         <Id>e5f18024-f66f-4653-9132-3044249f7988</Id>
-         <FolderType>DeviceInstance</FolderType>
-         <AllowReordering>true</AllowReordering>
-         <InstanceId>0581ea63-5c60-45d9-99e0-938130ba16ed</InstanceId>
-         <TypeId>{1731b72b-a26a-4e07-9b43-797c982dd41b}</TypeId>
-         <TypeName>AXL SE DI16/1</TypeName>
-         <TypeRevision>00/1.00</TypeRevision>
-         <ParentIndex>1</ParentIndex>
-      </Folder>
-      <Folder Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DO16_1">
-         <Id>974c755e-bce6-4777-8ff5-07d1a9c744a7</Id>
-         <FolderType>DeviceInstance</FolderType>
-         <AllowReordering>true</AllowReordering>
-         <InstanceId>3f6bc11d-3f02-4bdf-a102-ee6a894d0695</InstanceId>
-         <TypeId>{39f1662a-5d2f-412b-bd33-4e140598cae2}</TypeId>
-         <TypeName>AXL SE DO16/1</TypeName>
-         <TypeRevision>00/1.00</TypeRevision>
-         <ParentIndex>2</ParentIndex>
-      </Folder>
-      <Folder Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_U_0-10">
-         <Id>5b343eb2-b666-4254-8b15-7227bb8ff491</Id>
-         <FolderType>DeviceInstance</FolderType>
-         <AllowReordering>true</AllowReordering>
-         <InstanceId>000d0c7a-08ef-4798-999f-49de0573aa64</InstanceId>
-         <TypeId>{29a46d5f-387c-4946-8881-c01efeb13ca4}</TypeId>
-         <TypeName>AXL SE AI4 U 0-10</TypeName>
-         <TypeRevision>00/1.00</TypeRevision>
-         <ParentIndex>3</ParentIndex>
-      </Folder>
-      <Folder Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_RTD4_PT100">
-         <Id>573cb40b-8715-4f4e-b675-630b3bacbc37</Id>
-         <FolderType>DeviceInstance</FolderType>
-         <AllowReordering>true</AllowReordering>
-         <InstanceId>683a74f3-3450-473f-b43d-408f3d7c78c9</InstanceId>
-         <TypeId>{0564fac8-584f-435f-b5c2-b8519b341920}</TypeId>
-         <TypeName>AXL SE RTD4 PT100</TypeName>
-         <TypeRevision>00/1.00</TypeRevision>
-         <ParentIndex>4</ParentIndex>
-      </Folder>
-      <Folder Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_I_4-20">
-         <Id>fb7d0250-3958-4721-981c-39b338c03ac7</Id>
-         <FolderType>DeviceInstance</FolderType>
-         <AllowReordering>true</AllowReordering>
-         <InstanceId>a9e62d51-2574-45cc-a9d5-0fd405ea3d6e</InstanceId>
-         <TypeId>{ffcbac13-5342-44ea-8bea-2d20bb7e374a}</TypeId>
-         <TypeName>AXL SE AI4 I 4-20</TypeName>
-         <TypeRevision>00/1.00</TypeRevision>
-         <ParentIndex>5</ParentIndex>
-      </Folder>
-      <Folder Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AO4_I_4-20">
-         <Id>50bf362b-27b6-4c4e-b71c-c493a986f5bb</Id>
-         <FolderType>DeviceInstance</FolderType>
-         <AllowReordering>true</AllowReordering>
-         <InstanceId>37b4d0fa-7596-4ebe-bff5-b778e687df46</InstanceId>
-         <TypeId>{da694e81-6778-4251-aa6a-47879b850a81}</TypeId>
-         <TypeName>AXL SE AO4 I 4-20</TypeName>
-         <TypeRevision>00/1.00</TypeRevision>
-         <ParentIndex>6</ParentIndex>
       </Folder>
       <Folder Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\IB_Master">
          <Id>ea1557b2-3ed9-4efb-89df-2230ada03c15</Id>
@@ -488,6 +524,36 @@
       </ImageThumbnail>
    </ItemGroup>
    <ItemGroup>
+      <InstancePropertiesDocument Include="RecycleBin\50bf362b-27b6-4c4e-b71c-c493a986f5bb\AXL_SE_AO4_I_4-20\37b4d0fa-7596-4ebe-bff5-b778e687df46.iprop">
+         <Id>6b78eb71-2064-4808-b9a2-af8064947eb6</Id>
+         <Visible>False</Visible>
+         <ParentIndex>0</ParentIndex>
+      </InstancePropertiesDocument>
+      <InstancePropertiesDocument Include="RecycleBin\fb7d0250-3958-4721-981c-39b338c03ac7\AXL_SE_AI4_I_4-20\a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.iprop">
+         <Id>23ba943e-ae8b-4bbf-9083-f14e328de643</Id>
+         <Visible>False</Visible>
+         <ParentIndex>0</ParentIndex>
+      </InstancePropertiesDocument>
+      <InstancePropertiesDocument Include="RecycleBin\573cb40b-8715-4f4e-b675-630b3bacbc37\AXL_SE_RTD4_PT100\683a74f3-3450-473f-b43d-408f3d7c78c9.iprop">
+         <Id>93b4c960-97fc-4269-ad03-00f2aec9c845</Id>
+         <Visible>False</Visible>
+         <ParentIndex>0</ParentIndex>
+      </InstancePropertiesDocument>
+      <InstancePropertiesDocument Include="RecycleBin\5b343eb2-b666-4254-8b15-7227bb8ff491\AXL_SE_AI4_U_0-10\000d0c7a-08ef-4798-999f-49de0573aa64.iprop">
+         <Id>e4f8620a-6036-4a62-b225-c0c5d63bdbb0</Id>
+         <Visible>False</Visible>
+         <ParentIndex>0</ParentIndex>
+      </InstancePropertiesDocument>
+      <InstancePropertiesDocument Include="RecycleBin\974c755e-bce6-4777-8ff5-07d1a9c744a7\AXL_SE_DO16_1\3f6bc11d-3f02-4bdf-a102-ee6a894d0695.iprop">
+         <Id>af149f94-5ffa-4bb0-9dfc-caa961c7b4da</Id>
+         <Visible>False</Visible>
+         <ParentIndex>0</ParentIndex>
+      </InstancePropertiesDocument>
+      <InstancePropertiesDocument Include="RecycleBin\e5f18024-f66f-4653-9132-3044249f7988\AXL_SE_DI16_1\0581ea63-5c60-45d9-99e0-938130ba16ed.iprop">
+         <Id>478e75a0-e9b7-43de-9e43-013a641dd0a0</Id>
+         <Visible>False</Visible>
+         <ParentIndex>0</ParentIndex>
+      </InstancePropertiesDocument>
       <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\b84580d7-61ea-48ec-9861-abe43adbd376.iprop">
          <Id>f903f749-03dc-4e96-8d6e-9493709c320e</Id>
          <Visible>False</Visible>
@@ -513,40 +579,10 @@
          <Visible>False</Visible>
          <ParentIndex>0</ParentIndex>
       </InstancePropertiesDocument>
-      <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DI16_1\0581ea63-5c60-45d9-99e0-938130ba16ed.iprop">
-         <Id>478e75a0-e9b7-43de-9e43-013a641dd0a0</Id>
-         <Visible>False</Visible>
-         <ParentIndex>0</ParentIndex>
-      </InstancePropertiesDocument>
-      <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DO16_1\3f6bc11d-3f02-4bdf-a102-ee6a894d0695.iprop">
-         <Id>af149f94-5ffa-4bb0-9dfc-caa961c7b4da</Id>
-         <Visible>False</Visible>
-         <ParentIndex>0</ParentIndex>
-      </InstancePropertiesDocument>
-      <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_U_0-10\000d0c7a-08ef-4798-999f-49de0573aa64.iprop">
-         <Id>e4f8620a-6036-4a62-b225-c0c5d63bdbb0</Id>
-         <Visible>False</Visible>
-         <ParentIndex>0</ParentIndex>
-      </InstancePropertiesDocument>
-      <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_RTD4_PT100\683a74f3-3450-473f-b43d-408f3d7c78c9.iprop">
-         <Id>93b4c960-97fc-4269-ad03-00f2aec9c845</Id>
-         <Visible>False</Visible>
-         <ParentIndex>0</ParentIndex>
-      </InstancePropertiesDocument>
-      <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_I_4-20\a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.iprop">
-         <Id>23ba943e-ae8b-4bbf-9083-f14e328de643</Id>
-         <Visible>False</Visible>
-         <ParentIndex>0</ParentIndex>
-      </InstancePropertiesDocument>
-      <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AO4_I_4-20\37b4d0fa-7596-4ebe-bff5-b778e687df46.iprop">
-         <Id>6b78eb71-2064-4808-b9a2-af8064947eb6</Id>
-         <Visible>False</Visible>
-         <ParentIndex>0</ParentIndex>
-      </InstancePropertiesDocument>
       <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\b84580d7-61ea-48ec-9861-abe43adbd376.L7_ax.iprop">
          <Id>a87ca1a5-ec61-4d58-8eba-856ffd286d7e</Id>
          <Visible>False</Visible>
-         <ParentIndex>8</ParentIndex>
+         <ParentIndex>2</ParentIndex>
       </InstancePropertiesDocument>
       <InstancePropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\IB_Master\b84580d7-61ea-48ec-9861-abe43adbd376.L7_8.iprop">
          <Id>44a12cd2-35db-433c-a77a-9e54301712d8</Id>
@@ -575,7 +611,7 @@
          <ParentIndex>3</ParentIndex>
       </LocalResources>
       <LocalResources Include="Logical Elements\Main.pou\Variables.var.locres">
-         <Id>d976bab7-c83b-44fd-b078-d5d033daa54f</Id>
+         <Id>ca450f08-6324-4e07-9c2a-ee8fbf2f6aac</Id>
          <Visible>False</Visible>
          <ParentIndex>5</ParentIndex>
       </LocalResources>
@@ -603,7 +639,7 @@
          <Id>3ce53ecf-d799-4905-90d3-bb8e54524b32</Id>
          <Visible>False</Visible>
          <Name>Arp.Io.Axl.ControllerComponent</Name>
-         <ParentIndex>9</ParentIndex>
+         <ParentIndex>3</ParentIndex>
       </MetaComponent>
       <MetaComponent Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\IB_Master\Arp.Io.Ib.ControllerComponent.compmeta">
          <Id>2eb197d3-db53-41c1-b522-a5e2e2e5e4de</Id>
@@ -650,7 +686,7 @@
          <Namespace>Arp.Io.Axl</Namespace>
          <Name>Arp.Io.Axl</Name>
          <ApplicationDomain />
-         <ParentIndex>10</ParentIndex>
+         <ParentIndex>4</ParentIndex>
       </MetaLibrary>
       <MetaLibrary Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\IB_Master\Arp.Io.Ib.libmeta">
          <Id>367cea6b-616b-42f1-9e45-17d1d129e09d</Id>
@@ -687,44 +723,44 @@
       </OPCUASettingsDocument>
    </ItemGroup>
    <ItemGroup>
-      <ParameterDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_F_DI8_1_DO8_1_1H\9e014a44-cfd6-4f3a-b3d1-ea433f686602.par">
-         <Id>13713081-3d9a-4198-ba5c-042123d11186</Id>
+      <ParameterDocument Include="RecycleBin\50bf362b-27b6-4c4e-b71c-c493a986f5bb\AXL_SE_AO4_I_4-20\37b4d0fa-7596-4ebe-bff5-b778e687df46.par">
+         <Id>c69a9cc7-e0ef-4cce-b2bd-68d9db06773f</Id>
          <Visible>False</Visible>
          <ProtocolName>AXLF</ProtocolName>
          <ParentIndex>2</ParentIndex>
       </ParameterDocument>
-      <ParameterDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DI16_1\0581ea63-5c60-45d9-99e0-938130ba16ed.par">
-         <Id>b9eb0a52-7e9b-43cf-b89f-bb863276d216</Id>
-         <Visible>False</Visible>
-         <ProtocolName>AXLF</ProtocolName>
-         <ParentIndex>2</ParentIndex>
-      </ParameterDocument>
-      <ParameterDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DO16_1\3f6bc11d-3f02-4bdf-a102-ee6a894d0695.par">
-         <Id>c5f3dce8-24e0-4ca6-b479-3b3a0cdc4141</Id>
-         <Visible>False</Visible>
-         <ProtocolName>AXLF</ProtocolName>
-         <ParentIndex>2</ParentIndex>
-      </ParameterDocument>
-      <ParameterDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_U_0-10\000d0c7a-08ef-4798-999f-49de0573aa64.par">
-         <Id>2d7ba474-8ace-417f-a290-f1306605b619</Id>
-         <Visible>False</Visible>
-         <ProtocolName>AXLF</ProtocolName>
-         <ParentIndex>2</ParentIndex>
-      </ParameterDocument>
-      <ParameterDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_RTD4_PT100\683a74f3-3450-473f-b43d-408f3d7c78c9.par">
-         <Id>55acc076-4852-4b58-9a2f-ad986dd735f5</Id>
-         <Visible>False</Visible>
-         <ProtocolName>AXLF</ProtocolName>
-         <ParentIndex>2</ParentIndex>
-      </ParameterDocument>
-      <ParameterDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_I_4-20\a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.par">
+      <ParameterDocument Include="RecycleBin\fb7d0250-3958-4721-981c-39b338c03ac7\AXL_SE_AI4_I_4-20\a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.par">
          <Id>2d435e5b-8cda-4237-a431-5cb6f9019e6b</Id>
          <Visible>False</Visible>
          <ProtocolName>AXLF</ProtocolName>
          <ParentIndex>2</ParentIndex>
       </ParameterDocument>
-      <ParameterDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AO4_I_4-20\37b4d0fa-7596-4ebe-bff5-b778e687df46.par">
-         <Id>c69a9cc7-e0ef-4cce-b2bd-68d9db06773f</Id>
+      <ParameterDocument Include="RecycleBin\573cb40b-8715-4f4e-b675-630b3bacbc37\AXL_SE_RTD4_PT100\683a74f3-3450-473f-b43d-408f3d7c78c9.par">
+         <Id>55acc076-4852-4b58-9a2f-ad986dd735f5</Id>
+         <Visible>False</Visible>
+         <ProtocolName>AXLF</ProtocolName>
+         <ParentIndex>2</ParentIndex>
+      </ParameterDocument>
+      <ParameterDocument Include="RecycleBin\5b343eb2-b666-4254-8b15-7227bb8ff491\AXL_SE_AI4_U_0-10\000d0c7a-08ef-4798-999f-49de0573aa64.par">
+         <Id>2d7ba474-8ace-417f-a290-f1306605b619</Id>
+         <Visible>False</Visible>
+         <ProtocolName>AXLF</ProtocolName>
+         <ParentIndex>2</ParentIndex>
+      </ParameterDocument>
+      <ParameterDocument Include="RecycleBin\974c755e-bce6-4777-8ff5-07d1a9c744a7\AXL_SE_DO16_1\3f6bc11d-3f02-4bdf-a102-ee6a894d0695.par">
+         <Id>c5f3dce8-24e0-4ca6-b479-3b3a0cdc4141</Id>
+         <Visible>False</Visible>
+         <ProtocolName>AXLF</ProtocolName>
+         <ParentIndex>2</ParentIndex>
+      </ParameterDocument>
+      <ParameterDocument Include="RecycleBin\e5f18024-f66f-4653-9132-3044249f7988\AXL_SE_DI16_1\0581ea63-5c60-45d9-99e0-938130ba16ed.par">
+         <Id>b9eb0a52-7e9b-43cf-b89f-bb863276d216</Id>
+         <Visible>False</Visible>
+         <ProtocolName>AXLF</ProtocolName>
+         <ParentIndex>2</ParentIndex>
+      </ParameterDocument>
+      <ParameterDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_F_DI8_1_DO8_1_1H\9e014a44-cfd6-4f3a-b3d1-ea433f686602.par">
+         <Id>13713081-3d9a-4198-ba5c-042123d11186</Id>
          <Visible>False</Visible>
          <ProtocolName>AXLF</ProtocolName>
          <ParentIndex>2</ParentIndex>
@@ -752,6 +788,36 @@
       </ProjectSettingsDocument>
    </ItemGroup>
    <ItemGroup>
+      <PropertiesDocument Include="RecycleBin\50bf362b-27b6-4c4e-b71c-c493a986f5bb\AXL_SE_AO4_I_4-20\37b4d0fa-7596-4ebe-bff5-b778e687df46.properties">
+         <Id>6b1b54d4-c92c-4b57-bb03-8bd92b4a272e</Id>
+         <Visible>False</Visible>
+         <ParentIndex>1</ParentIndex>
+      </PropertiesDocument>
+      <PropertiesDocument Include="RecycleBin\fb7d0250-3958-4721-981c-39b338c03ac7\AXL_SE_AI4_I_4-20\a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.properties">
+         <Id>c249647a-e0c5-411b-88e2-0f28d2966c75</Id>
+         <Visible>False</Visible>
+         <ParentIndex>1</ParentIndex>
+      </PropertiesDocument>
+      <PropertiesDocument Include="RecycleBin\573cb40b-8715-4f4e-b675-630b3bacbc37\AXL_SE_RTD4_PT100\683a74f3-3450-473f-b43d-408f3d7c78c9.properties">
+         <Id>86043aee-b5b0-4e1e-88fd-7a7bc38a312d</Id>
+         <Visible>False</Visible>
+         <ParentIndex>1</ParentIndex>
+      </PropertiesDocument>
+      <PropertiesDocument Include="RecycleBin\5b343eb2-b666-4254-8b15-7227bb8ff491\AXL_SE_AI4_U_0-10\000d0c7a-08ef-4798-999f-49de0573aa64.properties">
+         <Id>f4696d9e-8d3e-4bfd-b552-b61bfe86d0b1</Id>
+         <Visible>False</Visible>
+         <ParentIndex>1</ParentIndex>
+      </PropertiesDocument>
+      <PropertiesDocument Include="RecycleBin\974c755e-bce6-4777-8ff5-07d1a9c744a7\AXL_SE_DO16_1\3f6bc11d-3f02-4bdf-a102-ee6a894d0695.properties">
+         <Id>8754ef32-eb01-4d7d-abe6-56995ecf8e10</Id>
+         <Visible>False</Visible>
+         <ParentIndex>1</ParentIndex>
+      </PropertiesDocument>
+      <PropertiesDocument Include="RecycleBin\e5f18024-f66f-4653-9132-3044249f7988\AXL_SE_DI16_1\0581ea63-5c60-45d9-99e0-938130ba16ed.properties">
+         <Id>8f57b50e-a7b6-45aa-a921-f83d1dcf1b70</Id>
+         <Visible>False</Visible>
+         <ParentIndex>1</ParentIndex>
+      </PropertiesDocument>
       <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\b84580d7-61ea-48ec-9861-abe43adbd376.properties">
          <Id>37917af1-3834-4ab0-91fa-82f0f8001601</Id>
          <Visible>False</Visible>
@@ -759,36 +825,6 @@
       </PropertiesDocument>
       <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_F_DI8_1_DO8_1_1H\9e014a44-cfd6-4f3a-b3d1-ea433f686602.properties">
          <Id>a8ec1c05-4418-4e76-804b-6321af0b90c3</Id>
-         <Visible>False</Visible>
-         <ParentIndex>1</ParentIndex>
-      </PropertiesDocument>
-      <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DI16_1\0581ea63-5c60-45d9-99e0-938130ba16ed.properties">
-         <Id>8f57b50e-a7b6-45aa-a921-f83d1dcf1b70</Id>
-         <Visible>False</Visible>
-         <ParentIndex>1</ParentIndex>
-      </PropertiesDocument>
-      <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_DO16_1\3f6bc11d-3f02-4bdf-a102-ee6a894d0695.properties">
-         <Id>8754ef32-eb01-4d7d-abe6-56995ecf8e10</Id>
-         <Visible>False</Visible>
-         <ParentIndex>1</ParentIndex>
-      </PropertiesDocument>
-      <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_U_0-10\000d0c7a-08ef-4798-999f-49de0573aa64.properties">
-         <Id>f4696d9e-8d3e-4bfd-b552-b61bfe86d0b1</Id>
-         <Visible>False</Visible>
-         <ParentIndex>1</ParentIndex>
-      </PropertiesDocument>
-      <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_RTD4_PT100\683a74f3-3450-473f-b43d-408f3d7c78c9.properties">
-         <Id>86043aee-b5b0-4e1e-88fd-7a7bc38a312d</Id>
-         <Visible>False</Visible>
-         <ParentIndex>1</ParentIndex>
-      </PropertiesDocument>
-      <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AI4_I_4-20\a9e62d51-2574-45cc-a9d5-0fd405ea3d6e.properties">
-         <Id>c249647a-e0c5-411b-88e2-0f28d2966c75</Id>
-         <Visible>False</Visible>
-         <ParentIndex>1</ParentIndex>
-      </PropertiesDocument>
-      <PropertiesDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\AXL_SE_AO4_I_4-20\37b4d0fa-7596-4ebe-bff5-b778e687df46.properties">
-         <Id>6b1b54d4-c92c-4b57-bb03-8bd92b4a272e</Id>
          <Visible>False</Visible>
          <ParentIndex>1</ParentIndex>
       </PropertiesDocument>
@@ -801,6 +837,30 @@
       </ResourceSettings>
    </ItemGroup>
    <ItemGroup>
+      <RestoreDocument Include="RecycleBin\50bf362b-27b6-4c4e-b71c-c493a986f5bb\50bf362b-27b6-4c4e-b71c-c493a986f5bb">
+         <Id>b20b3494-178e-419d-956e-f76cf54a8914</Id>
+         <ParentIndex>1</ParentIndex>
+      </RestoreDocument>
+      <RestoreDocument Include="RecycleBin\fb7d0250-3958-4721-981c-39b338c03ac7\fb7d0250-3958-4721-981c-39b338c03ac7">
+         <Id>c1a9ba15-e495-4497-a4c8-7d3b38545c65</Id>
+         <ParentIndex>1</ParentIndex>
+      </RestoreDocument>
+      <RestoreDocument Include="RecycleBin\573cb40b-8715-4f4e-b675-630b3bacbc37\573cb40b-8715-4f4e-b675-630b3bacbc37">
+         <Id>20884344-0b00-4637-ac9b-075ace7a079d</Id>
+         <ParentIndex>1</ParentIndex>
+      </RestoreDocument>
+      <RestoreDocument Include="RecycleBin\5b343eb2-b666-4254-8b15-7227bb8ff491\5b343eb2-b666-4254-8b15-7227bb8ff491">
+         <Id>d5ae196f-10a5-45e6-b33f-786700b21138</Id>
+         <ParentIndex>1</ParentIndex>
+      </RestoreDocument>
+      <RestoreDocument Include="RecycleBin\974c755e-bce6-4777-8ff5-07d1a9c744a7\974c755e-bce6-4777-8ff5-07d1a9c744a7">
+         <Id>0692d138-df43-40ee-bfb7-5d9e45778f92</Id>
+         <ParentIndex>1</ParentIndex>
+      </RestoreDocument>
+      <RestoreDocument Include="RecycleBin\e5f18024-f66f-4653-9132-3044249f7988\e5f18024-f66f-4653-9132-3044249f7988">
+         <Id>050f3b9f-8484-412b-a9a6-51598d9d1df7</Id>
+         <ParentIndex>1</ParentIndex>
+      </RestoreDocument>
       <RestoreDocument Include="RecycleBin\e83b1dbf-0aa7-49f5-b11f-b00297944d19\e83b1dbf-0aa7-49f5-b11f-b00297944d19">
          <Id>a8c523c0-f22c-4689-ac07-a5c9ab04ff91</Id>
          <ParentIndex>1</ParentIndex>
@@ -830,7 +890,7 @@
       <StationDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\AXLF_Master\b84580d7-61ea-48ec-9861-abe43adbd376.L7_ax.station">
          <Id>264c8827-a55c-472d-bc6a-1b6b8bea552d</Id>
          <Visible>False</Visible>
-         <ParentIndex>7</ParentIndex>
+         <ParentIndex>1</ParentIndex>
       </StationDocument>
       <StationDocument Include="Hardware\CFG_09451DF45B184474B1BDC5F625D4C2B7\IB_Master\b84580d7-61ea-48ec-9861-abe43adbd376.L7_8.station">
          <Id>6105a3af-bb9c-4a3b-a286-e430e36d2122</Id>

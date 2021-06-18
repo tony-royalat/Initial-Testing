@@ -9,7 +9,7 @@
     <InstVal xPath="Generic:FormattedTypeNameWithoutVersion" Type="System.String">AXL SE DI16/1</InstVal>
     <InstVal xPath="Generic:FormattedTypeName" Type="System.String">AXL SE DI16/1 Rev. &gt;= 00/1.00</InstVal>
     <InstVal xPath="AutomationML:DeviceItemId" Type="System.String">0e6c63cc-722d-4afa-8e60-567310bb8efe</InstVal>
-    <InstVal xPath="//Layer7[@uID='L7_1']/InstanceObjList/Obj[@uID='axldd00' type='AXLF:ConsecutiveNumber']" Type="Ade.Fdcml.Core.Signed32">2</InstVal>
+    <InstVal xPath="//Layer7[@uID='L7_1']/InstanceObjList/Obj[@uID='axldd00' type='AXLF:ConsecutiveNumber']" Type="Ade.Fdcml.Core.Signed32">0</InstVal>
     <InstVal xPath="//Layer7[@uID='L7_1']/ParaList/Para[@uID='bp14']/Current" Type="Ade.Fdcml.Core.StringAscii">Local</InstVal>
     <InstVal xPath="//Layer7[@uID='L7_1']/ParaList/Para[@uID='bp15']/Current" Type="Ade.Fdcml.Core.StringAscii">IO</InstVal>
     <InstVal xPath="//Layer7[@uID='L7_1']/ParaList/Para[@uID='p1']/Current" Type="Ade.Fdcml.Core.Unsigned8">0</InstVal>
